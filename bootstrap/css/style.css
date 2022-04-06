@@ -1,0 +1,53 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #F4B41A;
+}
+
+.quem-somos {
+    background-color: #143C58;
+    color:white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 130px;
+}
+
+.imagem-sobre-mim {
+    margin:auto;
+}
+
+.texto-sobre-mim {
+    text-align:center;
+    font-size: 16px;
+    margin-bottom: 25px;
+    padding-top: 50px;
+}
+
+.projetos {
+    background-color: #F4B41A;
+    color:#143C58;
+    padding-top: 30px;
+    padding-bottom: 280px;
+}
+
+.texto-cadastro {
+    padding-top: 30px;
+    font-size: 18px;
+}
+
+.projeto-imagem {
+    margin-top: 25px;
+}
+
+.bg-footer {
+    background-color:#143C58;
+    color: #F4B41A;
+}
+
+.links-contato {
+    color: white;
+}
